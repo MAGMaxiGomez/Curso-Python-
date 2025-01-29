@@ -6,4 +6,4 @@ Para ello deberás concatenar la primera parte de la frase con el valor que asum
 Recuerda agregar un espacio antes de concatenar la variable al resto del texto.
 '''
 curso = "Python"
-print("Estas tomando un curso de : " + curso )
+print("Estás tomando un curso de " + curso )
