@@ -12,4 +12,4 @@ construye la variable nombrecompleto concatenando las variables (recuerda sumar 
 '''
 nombre = "Julia "
 apellido = "Roberts"
-nombrecompleto = nombre + apellido
+nombrecompleto = nombre + " " + apellido
