@@ -6,5 +6,5 @@ Toma cada tercer caracter empezando desde el noveno hasta el final de la frase, 
 '''
 
 frase = "Nunca confíes en un ordenador que no puedas lanzar por una ventana"
-caracteres = frase[9::4]
+caracteres = frase[8::3]
 print(caracteres)
